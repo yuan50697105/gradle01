@@ -1,3 +1,4 @@
 rootProject.name = 'gradle04'
 include 'mall-fastmybatis'
 include 'mall-tkmapper'
+include 'mall-enhance'
